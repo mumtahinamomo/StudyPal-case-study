@@ -1,1 +1,2 @@
 # StudyPal-case-study
+StudyPal is an AI-powered study companion that helps students stay organized, understand concepts faster, and retain information longer. By centralizing course materials, generating contextual summaries, and offering adaptive learning support, StudyPal transforms scattered study habits into a structured, personalized learning experience. Designed with direct input from students, it addresses common academic pain points with intuitive, user-friendly features.
